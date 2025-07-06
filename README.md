@@ -16,3 +16,5 @@ Feature Entity:
     - Positive- Patient likely has a condition
     - Negative- Patient is safe from Heart Risk)
 
+Dashboard Link: https://drive.google.com/file/d/1v1VysJibNTsx1oZ1LjuC1XiZvvvRwC3V/view?usp=sharing
+
